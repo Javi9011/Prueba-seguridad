@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 7777,
+
+  "data-db-connection": "mongodb+srv://dbUser:Mongo901108@cluster0.59ot9h8.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "bd-prueba-tecnica-seguridad"
+}
