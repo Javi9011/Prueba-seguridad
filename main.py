@@ -140,7 +140,7 @@ def eliminarVotante(id):
 @app.route("/", methods=['GET'])
 def testSeguridad():
     json ={}
-    json["message"] = "Sevicio de seguridad corriendo....."
+    json["message"] = "Sevicio de seguridad corriendo......."
     return jsonify(json)
 
 @app.route("/usuario", methods=['POST'])
